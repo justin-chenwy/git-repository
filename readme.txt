@@ -1,3 +1,4 @@
 #Creat a new branch
 Creating a new branch dev is and quick.
-jjjjj add name
+Creating a repository on windows system,then clone programm to windows.
+Try from github syn to windows system.
